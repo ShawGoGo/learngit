@@ -9,7 +9,7 @@ git is a free software
 >如何嵌入代码
 >
 
-'''shell
+```shell
 mkdir /data/learngit/
-'''
+```
 
